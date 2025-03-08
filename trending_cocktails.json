@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Mojito",
+    "category": "Highball",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "amount": 60
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 30
+      },
+      {
+        "name": "Sugar syrup",
+        "amount": 15
+      },
+      {
+        "name": "Soda water",
+        "amount": 90
+      },
+      {
+        "name": "Fresh mint leaves",
+        "amount": 0
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Lowball",
+    "ingredients": [
+      {
+        "name": "Bourbon or Rye whiskey",
+        "amount": 60
+      },
+      {
+        "name": "Sugar cube",
+        "amount": 0
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": 2
+      },
+      {
+        "name": "Water",
+        "amount": 5
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg"
+  },
+  {
+    "name": "Margarita",
+    "category": "All-Day Cocktail",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "amount": 50
+      },
+      {
+        "name": "Cointreau",
+        "amount": 20
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 30
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg"
+  },
+  {
+    "name": "Negroni",
+    "category": "Before-Dinner Cocktail",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": 30
+      },
+      {
+        "name": "Campari",
+        "amount": 30
+      },
+      {
+        "name": "Sweet vermouth",
+        "amount": 30
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg"
+  },
+  {
+    "name": "Moscow Mule",
+    "category": "Highball",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": 45
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 15
+      },
+      {
+        "name": "Ginger beer",
+        "amount": 120
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg"
+  },
+  {
+    "name": "Daiquiri",
+    "category": "Before-Dinner Cocktail",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "amount": 60
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 30
+      },
+      {
+        "name": "Simple syrup",
+        "amount": 15
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg"
+  },
+  {
+    "name": "Martini",
+    "category": "Before-Dinner Cocktail",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": 60
+      },
+      {
+        "name": "Dry vermouth",
+        "amount": 10
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg"
+  },
+  {
+    "name": "Piña Colada",
+    "category": "Longdrink",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "amount": 60
+      },
+      {
+        "name": "Coconut cream",
+        "amount": 30
+      },
+      {
+        "name": "Pineapple juice",
+        "amount": 90
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "After-Dinner Cocktail",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": 50
+      },
+      {
+        "name": "Coffee liqueur",
+        "amount": 30
+      },
+      {
+        "name": "Espresso",
+        "amount": 30
+      },
+      {
+        "name": "Simple syrup",
+        "amount": 10
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg"
+  },
+  {
+    "name": "Whiskey Sour",
+    "category": "All-Day Cocktail",
+    "ingredients": [
+      {
+        "name": "Bourbon whiskey",
+        "amount": 60
+      },
+      {
+        "name": "Fresh lemon juice",
+        "amount": 30
+      },
+      {
+        "name": "Simple syrup",
+        "amount": 15
+      },
+      {
+        "name": "Egg white",
+        "amount": 15
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg"
+  },
+  {
+    "name": "Bloody Mary",
+    "category": "Longdrink",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": 45
+      },
+      {
+        "name": "Tomato juice",
+        "amount": 90
+      },
+      {
+        "name": "Lemon juice",
+        "amount": 15
+      },
+      {
+        "name": "Worcestershire sauce",
+        "amount": 5
+      },
+      {
+        "name": "Tabasco sauce",
+        "amount": 2
+      },
+      {
+        "name": "Salt and pepper",
+        "amount": 0
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg"
+  },
+  {
+    "name": "Manhattan",
+    "category": "Before-Dinner Cocktail",
+    "ingredients": [
+      {
+        "name": "Rye or bourbon whiskey",
+        "amount": 50
+      },
+      {
+        "name": "Sweet vermouth",
+        "amount": 20
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": 2
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/hz7p4t1589575281.jpg"
+  },
+  {
+    "name": "Cosmopolitan",
+    "category": "All-Day Cocktail",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": 40
+      },
+      {
+        "name": "Cointreau",
+        "amount": 15
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 15
+      },
+      {
+        "name": "Cranberry juice",
+        "amount": 30
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg"
+  },
+  {
+    "name": "Mai Tai",
+    "category": "Longdrink",
+    "ingredients": [
+      {
+        "name": "White rum",
+        "amount": 30
+      },
+      {
+        "name": "Dark rum",
+        "amount": 30
+      },
+      {
+        "name": "Orange curaçao",
+        "amount": 15
+      },
+      {
+        "name": "Orgeat syrup",
+        "amount": 15
+      },
+      {
+        "name": "Fresh lime juice",
+        "amount": 30
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "category": "Longdrink",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": 15
+      },
+      {
+        "name": "Tequila",
+        "amount": 15
+      },
+      {
+        "name": "White rum",
+        "amount": 15
+      },
+      {
+        "name": "Gin",
+        "amount": 15
+      },
+      {
+        "name": "Cointreau",
+        "amount": 15
+      },
+      {
+        "name": "Fresh lemon juice",
+        "amount": 30
+      },
+      {
+        "name": "Simple syrup",
+        "amount": 20
+      },
+      {
+        "name": "Cola",
+        "amount": 45
+      }
+    ],
+    "thumbnail_url": "https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg"
+  }
+]
